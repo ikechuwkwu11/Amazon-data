@@ -5,7 +5,7 @@
 
 This project presents a comprehensive exploratory data analysis (EDA) on an Amazon product dataset. It includes data ingestion, cleaning, visualization, and categorical data encoding using Python-based data science tools.
 
-The primary goal is to uncover insights and trends related to product categories, ratings, pricing patterns, and other business-relevant features that could support decision-making and strategy formulation.
+The primary goal is to uncover insights and trends related to product categories, ratings, pricing patterns, and other business relevant features that could support decision making and strategy formulation.
 
 ---
 
@@ -27,7 +27,7 @@ The primary goal is to uncover insights and trends related to product categories
 
 ## 📊 Dataset
 
-- **Source**: [Google Drive Link](https://drive.google.com/uc?export=download&id=1YumtA6Ajt7M8qoTtmPJbs3JMZoEzjaNJ)
+- **Source**: [Kaggle Link](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
 - **Format**: CSV
 - **Size**: Varies depending on download
 - **Attributes**: Includes columns like `Product Name`, `Rating`, `Number of Reviews`, `Price`, `Category`, etc.
@@ -94,7 +94,7 @@ The primary goal is to uncover insights and trends related to product categories
 ## 📊 Visualizations Included
 
 - Rating Distribution Plot
-- Category-wise Boxplot of Prices
+- Category wise Boxplot of Prices
 - Count Plot of Products by Category
 - Correlation Heatmap (if applicable)
 - Scatter plot of Price vs Rating
@@ -106,7 +106,7 @@ The primary goal is to uncover insights and trends related to product categories
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/amazon-data-analysis.git
+   git clone https://github.com/ikechuwkwu11/amazon-data.git
    cd amazon-data-analysis
    ```
 
@@ -142,9 +142,4 @@ The primary goal is to uncover insights and trends related to product categories
 
 ---
 
-## 👨‍💻 Author
 
-**Mba Ikechukwu**  
-*Data Analyst | Python Developer*  
-📫 Email: your.email@example.com  
-🔗 GitHub: [github.com/yourusername](https://github.com/yourusername)
